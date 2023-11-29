@@ -14,11 +14,9 @@ The project uses the FER2013 dataset for training the emotion recognition model.
 ## Usage
 1. Clone the repository: `git clone https://github.com/Pravin1105/Facial-Emotion-Recognition.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the main script: `python main.py`
+3. Run the main script: `python main.ipynb`
 
 ## Directory Structure
-- `data/`: This folder contains the FER2013 dataset.
-- `src/`: This folder contains the source code for the project.
 - `requirements.txt`: List of project dependencies.
 - `README.md`: Project documentation.
 

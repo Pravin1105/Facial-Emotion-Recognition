@@ -1,7 +1,7 @@
 # Facial-Emotion-Recognition
 
 ## Overview
-This project implements a deep learning model for facial emotion recognition using a combination of Convolutional Neural Network (CNN) and Completed Local Binary Pattern (CLBP). The model is trained on the FER2013 dataset.
+This project implements a deep learning model for facial emotion recognition using Convolutional Neural Network (CNN). The model is trained on the FER2013 dataset.
 Facial Emotion Recognition (FER) is a captivating application of deep learning that aims to analyze and interpret facial expressions in images or videos to identify the underlying emotional states of individuals. This technology has found wide-ranging applications, from human-computer interaction and sentiment analysis to healthcare and market research.
 
 ## Prerequisites

@@ -6,7 +6,7 @@ Facial Emotion Recognition (FER) is a captivating application of deep learning t
 
 ## Prerequisites
 - Python 3.x
-- Install dependencies using: `pip install -r Requirements.txt`
+- Install dependencies using: `pip install -r requirements.txt`
 
 ## Dataset
 The project uses the FER2013 dataset for training the emotion recognition model. You can download it from Kaggle and the link for the same is https://www.kaggle.com/datasets/msambare/fer2013 .
